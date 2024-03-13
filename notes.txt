@@ -1,0 +1,14 @@
+Notes
+----------
+
+13/03/2024
+----------
+Image is a collection of pixels that have a height and width. 
+
+Each pixel is a part of the RGB colour spectrum, thus I can detect how light or dark each pixel is.
+
+To generate ascii art from an image, I imagine I would need to check each pixel and depending on its brightness map it to a character.
+
+Perhaps convert to greyscale. Makes it much easier to accomdate.
+
+	 
